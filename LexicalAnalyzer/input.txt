@@ -1,0 +1,8 @@
+//aa.c
+void  aa( )
+begin
+float  /rate,circle;
+rate=3;
+circle=3.14*rate*rate;
+end
+int ss = 135;
